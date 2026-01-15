@@ -1,4 +1,4 @@
-# Customer Behaviour Analysis — Superstore (Python)
+# Customer Revenue Behaviour Analysis — Superstore (Python)
 
 ## Overview
 This project analyzes customer revenue behavior using transactional sales data, with a focus on time-based revenue retention.
@@ -28,3 +28,4 @@ This project analyzes customer revenue behavior using transactional sales data, 
 
 ## Tools
 Python (pandas, matplotlib, seaborn)
+
